@@ -1,0 +1,17 @@
+<body>
+  <nav class="navigation">
+    <ul class="navbar-left">
+      <li><a class="highlight" href="#">About</a></li>
+      <li><a class="highlight" href="#">Blog</a></li>
+      <li><a class="highlight" href="#">Contact<li>
+    </ul>
+  </nav>
+  <div style="z-index:10;">
+    <a href="#" class="navbar-logo">Logo</a> 
+  </div>
+  <div class="video-container">
+    <video autoplay loop muted id="video-bg">
+      <source src="http://bigcom.com/assets/2014/08/iChooseB.mp4" type="video/mp4" />
+    </video>
+  </div>
+</body>  
